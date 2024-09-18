@@ -2,23 +2,23 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --bg: #0a070f;
-        --bg-light: #110c1e;
-        --bg-lighter: #261d37;
+        --main-bg: #0A070F;                
+        --dark-bg: #110C1E;                   
+        --light-bg: #261D37;             
 
-        --main-font: #ababab;
-        --light-font: #eee;
-        --dark-font: #888;
+        --main-font: #DFD3FF;               
+        --light-font: #DFD3FF;                 
+        --dark-font: #DFD3FF;                  
 
-        --main-theme: #6c86b7;
-        --theme-font: #6c86b7;
+        --main-theme: #4D4BBF;              
+        --theme-font: #4D4BBF;              
 
-        --border: rgba(34, 34, 34, 0.9);
-        --shadow: rgba(10, 10, 10, 0.8);
-        --no-shadow: rgba(0, 0, 0, 0);
-        --green: #326732;
-        --info: #676732;
-        --error: #673f32;
+        --border: #141414;             
+        --shadow: #141414;   
+        --no-shadow: #141414;      
+        --green: #52c41a;
+        --info: #eb2f96;
+        --error: #f5222d;
     }
 }
 
